@@ -18,6 +18,30 @@ An interactive Excel dashboard for analyzing house property data, including:
 
 The project focuses on data analysis, KPI development, interactive slicers, dashboard visualization, and business insights.
 
+
+### Heart Disease Dashboard
+
+An interactive Excel dashboard for analyzing heart disease data, including:
+
+Age
+Sex
+Chest Pain Type
+Resting Blood Pressure
+Cholesterol
+Fasting Blood Sugar
+Resting ECG
+Maximum Heart Rate
+Exercise-Induced Angina
+ST Depression
+ST Slope
+Number of Major Vessels
+Thalassemia
+Heart Disease Target
+
+
+The project focuses on data analysis, KPI development, interactive slicers, dashboard visualization, and business insights.
+
+
 ## Tools & Skills
 
 * Microsoft Excel
