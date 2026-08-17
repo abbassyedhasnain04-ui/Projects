@@ -42,6 +42,25 @@ Heart Disease Target
 The project focuses on data analysis, KPI development, interactive slicers, dashboard visualization, and business insights.
 
 
+### Diabetes Analysis Dashboard
+
+An interactive Excel dashboard for analyzing Diabetes Disease data, including:
+
+
+Pregnancies
+Glucose
+Blood Pressure
+Skin Thickness
+Insulin
+BMI
+Diabetes Pedigree Function
+Age
+Outcome
+
+The project focuses on data analysis, KPI development, interactive slicers, dashboard visualization, and business insights.
+
+
+
 ## Tools & Skills
 
 * Microsoft Excel
